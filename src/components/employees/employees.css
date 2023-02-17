@@ -1,0 +1,22 @@
+.listEmployess
+{
+    padding: 10%;
+}
+
+.position
+{
+    display: flex;
+}
+
+.input-error
+{
+    border-color: #fc8181;
+}
+
+.separated{
+    margin-right: 8px;
+}
+
+.disabledAdd{
+    opacity: 0.3 !important;
+}

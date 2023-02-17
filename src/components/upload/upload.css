@@ -1,0 +1,50 @@
+li{
+    list-style: none;
+}
+
+.card-title{
+    padding: 8px;
+}
+
+.thumb {
+    display: inline-flex;
+    border-radius: 2;
+    border: 1px solid #eaeaea;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    width: 100px;
+    height: 100px;
+    padding: 4px;
+    box-sizing: border-box;
+  }
+  
+.thumbInner {
+    display: flex;
+    min-width: 0;
+    overflow: hidden;
+  }
+  
+.img  {
+    display: block;
+    width: auto;
+    height: 100%;
+}
+
+.all-images , .container {
+    padding-top: 24px;
+}
+
+.all-images {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.alert{
+  margin-top: 24px;
+}
+
+.imgCarusel{
+    height: 500px;
+    width: 500px;
+}
+  
